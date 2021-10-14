@@ -1,3 +1,6 @@
+---
+tags: algo
+---
 ### [Ones and Zeros](jsAlgo)
 
 > Given an array of ones and zeroes, convert the equivalent binary value to an integer.
